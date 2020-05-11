@@ -10,7 +10,7 @@ The goals of this repo are:
 - to investigate hyperparameters that work well with different parts
   of model development (training, model architecture, pre-processing, etc...)
 
-_NOTE: These notebooks won't work as is because they rely on local copies of datasets
-which are too big to store in on Github._
+_NOTE: These notebooks won't work as is because they rely on local copies of
+datasets which are too big to store on Github._
 
 
